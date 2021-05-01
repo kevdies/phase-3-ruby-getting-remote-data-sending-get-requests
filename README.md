@@ -1,4 +1,4 @@
-# Code-Along: Getting Remote Data
+# Sending GET Requests
 
 ## Learning Goals
 
