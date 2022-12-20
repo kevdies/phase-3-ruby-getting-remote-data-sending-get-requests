@@ -8,3 +8,7 @@ uri = URI.parse(url)
 response = Net::HTTP.get_response(uri)
 
 p JSON.parse(response.body)
+
+
+
+#require awesome_print or pp to make it easier to read output
